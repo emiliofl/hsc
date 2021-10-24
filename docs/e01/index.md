@@ -1,27 +1,27 @@
-# Example 01 - one org network
+# Exemplo 01 - one org network
 
-## Extensions
+## Extensões
 - [e01.1 - fabric-ca](e01.1.md)
 
 ## ToDos
-- explanations regarding setup
-- explanations regarding requirements
-- explanations how to generate the artifacts
+- explicações sobre configuração
+- explicações sobre os requisitos
+- explicações de como gerar os artefatos
 
 ![OneOrgNetwork](../../img/HSC-e1.png)
 
-The following fabric network characteristics should be built:
+As seguintes características de rede de malha devem ser construídas:
 
-- a single organization, done
-- two peers, done
-- one cli, done
-- solo as ordering service, done
-- one channel, done
-- predefined sacc chaincode, done
-- without TLS, done
+- uma única organização, feito
+- dois peers, feito
+- um cli, feito
+- solo como serviço de pedidos, feito
+- um canal, feito
+- chaincode sacc predefinido, feito
+- sem TLS, feito
 
-## Overview - important steps
-1. Create crypto materials
+## Overview - passos importantes
+1. Crie materiais criptográficos
 2. Start the network
 3. Create channel and join peers
 4. Install chaincode
