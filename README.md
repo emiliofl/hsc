@@ -1,11 +1,11 @@
 # HSC (Hyperledger Study Circle)
-This is a series of examples that are made as part of the Hyperledger Study Circle.
+Esta é uma série de exemplos que fazem parte do Hyperledger Study Circle.
 
-Two folders have to be highlighted:
+Duas pastas devem ser destacadas:
 - docs
 - examples
 
-The docs folder includes the documentation and the examples folder includes the necessary configuration files for the given example.
+A pasta docs inclui a documentação e a pasta de exemplos inclui os arquivos de configuração necessários para o exemplo fornecido.
 
-## The following examples are currently available:
+## Os exemplos a seguir estão disponíveis atualmente em:
 - [e01; a simple OneOrgNetwork](docs/e01/index.md)
